@@ -37,11 +37,20 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1.png" height="60" alt="bitcoin logo"  />
-  <img width="12" />
-  <img src="https://s3.coinmarketcap.com/static-gravity/image/5bd0f43855f6434386c59f2341c5aaf0.png" height="60" alt="sui logo"  />
-</div>
+
+<h2 align="center">⚡ Web3 Developer</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web3-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Move%20%7C%20Sui-%2300BFFF.svg?style=for-the-badge&logo=sui&logoColor=white" alt="Move | Sui"/>
+  <img src="https://img.shields.io/badge/Bitcoin-%23f7931a.svg?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+</p>
+
+<p align="center">
+  <em>Building decentralized applications with Solidity, Move (Sui), and blockchain technologies.</em>
+</p>
+
 ###
 
 <picture>
