@@ -1,4 +1,4 @@
-<h2 align="center">"𝘼𝙣𝙙 𝙮𝙚 𝙨𝙝𝙖𝙡𝙡 𝙠𝙣𝙤𝙬 𝙩𝙝𝙚 𝙩𝙧𝙪𝙩𝙝, 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙩𝙧𝙪𝙩𝙝 𝙨𝙝𝙖𝙡𝙡 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪 𝙛𝙧𝙚𝙚."</h2>
+<h2 align="center">"𝘼𝙣𝙙 𝙮𝙚 𝙨𝙝𝙖𝙡𝙡 𝙠𝙣𝙤𝙬 𝙩𝙝𝙚 𝙩𝙧𝙪𝙩𝙝, 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙩𝙧𝙪𝙩𝙝 𝙨𝙝𝙖𝙡𝙡 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪 𝙛𝙧𝙚𝙚."🕊️</h2>
 
 ###
 
@@ -41,7 +41,6 @@
 <h2 align="center">⚡ Web3 Developer</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web3-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3"/>
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Move%20%7C%20Sui-%2300BFFF.svg?style=for-the-badge&logo=sui&logoColor=white" alt="Move | Sui"/>
   <img src="https://img.shields.io/badge/Bitcoin-%23f7931a.svg?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
