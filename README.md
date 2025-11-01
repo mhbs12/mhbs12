@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://images.icon-icons.com/1487/PNG/512/8369-bitcoin_102502.png" height="60" alt="bitcoin logo"  />
   <img width="12" />
-  <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=040" height="60" alt="sui logo"  />
+  <img src="https://s3.coinmarketcap.com/static-gravity/image/5bd0f43855f6434386c59f2341c5aaf0.png" height="60" alt="sui logo"  />
 </div>
 ###
 
