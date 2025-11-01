@@ -37,6 +37,12 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://images.icon-icons.com/1487/PNG/512/8369-bitcoin_102502.png" height="60" alt="bitcoin logo"  />
+  <img width="12" />
+  <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=040" height="60" alt="sui logo"  />
+</div>
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhbs12/mhbs12/output/pacman-contribution-graph-dark.svg">
